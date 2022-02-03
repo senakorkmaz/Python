@@ -1,0 +1,1102 @@
+1-Eric Idle and George Harrison on the set of “Monty Python’s Life of Brian” (1978)
+2-Announcing a new kind of programming competition.
+
+Race the Internet to solve Python programming puzzles — together with Codex as both your teammate & live competitor.
+
+Thursday 10am PT, pre-register now: http://challenge.openai.com
+3-Python is a popular and versatile programming language you can use to code lots of different projects.
+
+But where and how do you start learning it?
+
+In this guide 
+@codergirl1991
+ shares 16 courses, tutorials, & books you can use to teach yourself Python.
+4-Python's any() and all() functions let you check if if any item or all items in an iterable evaluate to true.
+
+This can be super handy.
+
+In this tutorial, Bala shows you how to use the any() and all() functions with plenty of Python code examples.
+5-#python vs #golang speed and utilization.
+6-Week 4,Day 1:#Python for Data science by 
+@lux_academy
+  and 
+@DSEAfrica
+  
+
+#WomenWhoCode 
+#DataScience
+7-Always handle your errors carefully.
+#javascript #Python #DEVCommunity  #100DaysOfCode
+8-Python code eg’s for beginners in ML as taught by Siddharth Rajhans sir.  #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+9-The Python guiding the Avocado 
+
+#GwainSaga #Stickfigtheseries #Crossover #OC
+10-Everytime i read this, it makes more sense ! #python #programming
+11-Day 12 of 100 days of code
+
+Higher Lower Game in python. Who has more followers? :)
+
+#100DaysOfCode #Python #AppBrewery
+12-Javascript dom cheat sheet
+#100DaysOfCode 
+#DEVCommunity #javascript #Google #Reactjs #CSS3 #html #Frontend #OpenSource #Dailyui #uiuxdesign #Python #MachineLearning #ArtificialIntelligence #cybersecurity #Linux #Coding #TypeScript #CodeNewbie #AI #DataScience #Java #Vuejs
+13-We officially launched our new learning platform this week! 
+
+#Teachers please reach out with any questions you may have on the new #Virtual #AutoAuto course we are offering now. 
+
+#Python #Programming #AI #AutonomousVehicles #SelfDrivingCars #AI4K12 #CSforAll #ISTE #CSTA
+14-#100DaysOfCode  I'm doing this with Python, today I learned how to work with variables and I did a project called 'Band Name Generator'.
+15-#Infographic: Types of #ArtificialIntelligence by 
+@LindaGrass0
+ @antgrasso
+ Via 
+@ingliguori
+ #AI #Python #programming #BigData #Analytics #DataScience #IoT #PyTorch #R #NoSQL #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #100DaysofCode 
+@pierrepinna
+16-Day 34 of #100DaysOfCode 
+POMODORO TIMER
+Networking with #Python
+Started building Password Manager GUI App using Tkinter
+17-Roadmap to becoming a Data Engineer in 2021- From Beginner to Advanced!
+
+#MachineLearning #Python #IoT #100DaysOfMLCode #programming #AI #javascript #womenwhocode #RStats #Great #Serverless #CodeNewbie #DataScience #100DaysOfCode
+18-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+19-Python says goodnight 
+20-When I learned to write
+print("Hello, World!")
+In #Python
+
+Le me:
+21-7 Reasons Why You Should Learn Python
+#Python #Program #Apponix
+22-Inspired by classic video games like Rogue, Paper Apps™ DUNGEON is an experiment in minimalist, single-player, procedurally-generated pencil-and-paper gaming. 
+
+Grab the print-and-play edition, DUNGEON ZERO:
+https://gladden.gumroad.com/l/dungeon-zero
+
+Made with 
+@drawbotapp
+ #procgen #python
+23-Day 2 of #100DaysOfCode: Continuing with Math Problems in python. I implemented Power function iterativerly using bitwise operators to reduce the space requirements of the code to O(1). Plan to pick more bitwise problems tomorrow.
+24-On-Page Optimization with #Python for #SEO!  
+
+1.- Import the keywords and URLs from 
+@Semrush
+ or GSC.
+2.- Iterate over the list of URLs, scrape them and find the kw occurrences on the different tags.
+3.- Download this data as a heatmap on Excel.
+25-Day 26 of #100DaysOfCode in #Python 
+
+ List Comprehension
+ Dict Comprehension
+ Looping through Data Frames
+ 
+         Nato Alphabet Project 
+26-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+27-Day 1 of my #30daysofcode challenge. Been brainstorming some Django Web App ideas, while also tinkering with a variety of CRUD functionality on my current project. #django #webdevelopment #python #pythonprogramming
+28-Day 4 of #100DaysOfCode 
+Today I've Learned about Random Module, Lists and Nested Lists
+
+Today's Coding Challenge : Rock Paper Scissor Game
+Level : Beginner ( Easy )
+
+#Python #pythonprogramming #pythonlearning #100DaysOfPython #100daysofcodechallenge
+29-Its Pizza Time 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning, #javascript, #reactjs, #mobileapps, #learntocode, #code, #DEVCommunity, #100DaysOfCode, #linux, #webdev
+30-So I've made two lamia, this one I'm keeping however tomorrow I'll be posting the other as an adopt! In the meantime meet Nethia! Based off an Axanthic ball python
+31-I just completed "Report Repair" - Day 1 - Advent of Code 2020 https://adventofcode.com/2020/day/1 
+
+#100DaysOfCode #Python #CodeNewbie #LearningToCode #AdventOfCode
+32-Free #eBooks: 100+ Free #DataScience Books. 
+#NeuralNetworks #MachineLearning #TensorFlow #100DaysOfCode #BigData #Analytics #Great #DevCommunity #Programming #IoT #javascript #Linux #Cloud #Serverless #womenwhocode #Python #DeepLearning #AI #DataScience
+33-The ROC Curve and The AUC metric: The best ways to asses the performance of classification algorithms in #MachineLearning explained on our latest article. Check it out!
+
+https://howtolearnmachinelearning.com/articles/roc-machine-learning/…
+
+#DataScience #ArtificialIntelligence #AI #Python
+34-How to build an AI algorithm that solves Sudoku puzzles
+
+ #ai #algorithm #coding #dev #developer #programmer #programming #python #web #webdev
+35-Currency Strength Update: 
+
+ Hourly 48 EMA 
+
+2021-08-11 11:00:00+00:00
+Currency  Score
+    $CAD      7
+    $NZD      5
+    $AUD      1
+    $USD      1
+    $GBP     -1
+    $EUR     -3
+    $JPY     -5
+    $CHF     -7
+
+https://dvcadmael.com/blog/relative-currency-strength.html…
+#forex #python
+36-No.MLX
+#shapeway #colorway #processing #python #creativecoding #generativeart
+37-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+38-No more confusion #Python
+39-How to Leverage Chatbots for Lead Nurturing and Conversions? https://buff.ly/37x8Ka6 #Python #MachineLearning #DeepLearning #ArtificialIntelligence #technology #DataScience #100daysofcodechallenge #programminghumor #100DaysofCode
+40-R1: D1 – #100DaysOfCode, #Python:
+
+Learned about printing to the console, concatenation, the input function, strings and assigning strings to variables, and more. 
+
+Created a band name generator.
+41-Connected my node to Python for that sweet, sweet #onchain #data
+42-A python package to optimize and evaluate topic models
+
+ #coding #dev #developer #programmer #programming #python #web #webdev
+43-We are bothered only about errors not warnings 
+Follow for more tech memes
+#MachineLearning #javascript #artificalintelligence #techtwitter #webdevelopment #100DaysOfCode #cybersecurity #Opensource #linux #python #css
+44-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+45-Currency Strength Update: 
+
+ Hourly 48 EMA 
+
+2021-08-10 22:00:00+00:00
+Currency  Score
+    $CAD      7
+    $NZD      5
+    $AUD      3
+    $USD      1
+    $GBP     -1
+    $EUR     -3
+    $JPY     -5
+    $CHF     -7
+
+https://dvcadmael.com/blog/relative-currency-strength.html…
+#forex #python
+46-Day 4 -- 60 days of Data Science and Machine Learning Series
+https://naina0412.medium.com/day-4-60-days-of-data-science-and-machine-learning-series-dd590f54d928?sk=9ac02738a2f63118e57391308de20e2e…
+#Python #BigData #Analytics #DataScience   #TensorFlow #MachineLearning #DataScientist  #Programming #Coding #100DaysofCode #hubofml
+47-Its me #FullStackDeveloper !
+
+who is with me?
+
+#Linux #algorithm #programmers #software #programming #DEVCommunity #programmer #CodeNewbies #coder #webdevelopers #100DaysOfCode #Python #Java #PHP #javascript #Coding #remotework #AI #MachineLearning #code #CloudComputing
+48-10 #cybersecurity companies to watchin 2021 https://bit.ly/3CCLplK
+#BigData #Analytics #IoT #AI #ML #TensorFlow #Python #DataScience #Data #100DaysOfCode #Flutter #Cloud #MachineLearning #healthcare #startups #innovation #ArtificialIntelligence #DigitalHealth 
+@sonu_monika
+49-With Q2 earnings reported, I compared how the 6 tech stocks that make up the FANMAG (Facebook, Apple, Netflix, Microsoft, Amazon, and Google) performed on their earnings. Check out my article below! $AAPL $FB $NFLX $AMZN $GOOG #Python #earnings #fintwit
+50-Mention your dream place to live #programmer #programming #coding #developer #coder #javascript #code #webdeveloper #codinglife #Python  #100DaysOfCode #WomenWhoCode #software #CryptoNews #fintech #investing #Investment #startup #NodeJS #Javascript #Flutter #Django #Opensource
+51-Python any() and all() Functions – Explained with Examples
+
+ #coding #dev #developer #nextjs #programmer #programming #python #web #webdev
+52-Latest 7-day average for COVID-19 in England - 24834 cases #COVID19 #python #pandas
+53-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+54-Specter is hiring a #Backend Engineer!
+
+ Tracking private & public markets within one data platform for investing funds
+ Brainstorm with the product team on feature(s) ideas
+ Develop database integrations
+
+#Python #DevJobs
+55-Monty's Python has Massive Circumference #MakeATVShowSexy
+56-Specter is hiring a #Backend Engineer!
+
+ Tracking private & public markets within one data platform for investing funds
+ Brainstorm with the product team on feature(s) ideas
+ Develop database integrations
+
+#Python #DevJobs
+57-Monty's Python has Massive Circumference #MakeATVShowSexy
+58-"Imports should be grouped in the following order:
+
+Standard library imports.
+Related third party imports.
+Local application/library specific imports.
+You should put a blank line between each group of imports."
+
+#100DaysOfCode #CodeNewbie #WomenWhoCode
+ https://python.org/dev/peps/pep-0008/#:~:text=Imports%20should%20be,group%20of%20imports….
+59-First python, then Java, now C++?! This one is just to use with MySQL and Workbench tho, I don't expect to be coding in it like at all this semester. Maybe a tiiiiny bit but Idk
+60-"gracious_kilby"
+"compassionate_montalcini"
+"adoring_hamilton"
+...
+
+Totally digging the Docker name generator!
+
+Found a Python implementation here: https://bit.ly/3iB3aK7
+
+#Docker #Python #pythonprogramming
+61-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+62-#BounceBackNow In Your #Startup 
+
+via 
+@ravikikan
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #Serverless #CyberSecurity #javascript #startups #data #dataviz #cloud #entrepreneurs #womenintech #girlswhocode #tech
+63-cw // snake lizard reptile
+
+edtwt, which reptile are you from this cute thing u saw on fb??
+
+i’m mostly a ball python with a lil blue-tongued skink 
+64-#BounceBackNow In Your #Startup 
+
+via 
+@ravikikan
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #Serverless #CyberSecurity #javascript #startups #data #dataviz #cloud #entrepreneurs #womenintech #girlswhocode #tech
+65-cw // snake lizard reptile
+
+edtwt, which reptile are you from this cute thing u saw on fb??
+
+i’m mostly a ball python with a lil blue-tongued skink 
+66-I just scored 100% on 
+@realpython
+'s "Basic Data Types in Python" quiz. What's your score? #pythonquiz
+67-How can you get more visitors to your blog?
+
+I reached 29,000+ page views. Since then, I've been getting a lot of questions about how I increased my traffic, therefore I'll put it all out here. 
+
+https://bit.ly/3AwG6SZ
+
+#DEVCommunity #Javascript #100DaysOfCode #Flutter #Python
+68-And here we have My Y/N Sona for the Your Boyfriend Game. Her name is Emma Watson, and the nope rope she is holding is her white lipped python named Noodlez, never said she was good with coming up with names.
+#YourBoyfriendfanart 
+#YourBoyfriend #YourBoyfriendsona
+69-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+70-Generative Query Networks (GQN) along with a #Pytorch implementation
+
+#MachineLearning #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #Serverless #DataScientist #Linux #Math #Programming #Coding #100DaysofCode #selfdrivingcars #AI #5G
+71-If you are transitioning between #Python & R this link can help you with visualization as it shows how the same plot is done in matplotlip, Plotly & R ggplot 
+https://pythonplot.com/#bar-countsplotly…
+#rstats
+72-How can you get more visitors to your blog?
+
+I reached 29,000+ page views. Since then, I've been getting a lot of questions about how I increased my traffic, therefore I'll put it all out here. 
+
+https://bit.ly/3AwG6SZ
+
+#DEVCommunity #Javascript #100DaysOfCode #Flutter #Python
+73-And here we have My Y/N Sona for the Your Boyfriend Game. Her name is Emma Watson, and the nope rope she is holding is her white lipped python named Noodlez, never said she was good with coming up with names.
+#YourBoyfriendfanart 
+#YourBoyfriend #YourBoyfriendsona
+74-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+75-Generative Query Networks (GQN) along with a #Pytorch implementation
+
+#MachineLearning #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #Serverless #DataScientist #Linux #Math #Programming #Coding #100DaysofCode #selfdrivingcars #AI #5G
+76-If you are transitioning between #Python & R this link can help you with visualization as it shows how the same plot is done in matplotlip, Plotly & R ggplot 
+https://pythonplot.com/#bar-countsplotly…
+#rstats
+77-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+78-New Batches Starting soon for all courses. Contact us now 
+
+#grafxitsolutions #python #coding #cprogramminglanguage #javascript #advancejava #seleniumtesting #manualtesting #pythonprogramming #pythoncourses #pythontraining #machinelearning #deeplearning #ai #python #coding
+79-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+80-https://tutorialslink.com/Articles/Hour-of-Data-Science/1005…
+Hour of DataScience . Hover to the link and learn more.
+#100DaysOfCode #DataScience #SubhamRay #Python
+81-If you are transitioning between #Python & R this link can help you with visualization as it shows how the same plot is done in matplotlip, Plotly & R ggplot 
+https://pythonplot.com/#bar-countsplotly…
+#rstats
+82-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+83-New Batches Starting soon for all courses. Contact us now 
+
+#grafxitsolutions #python #coding #cprogramminglanguage #javascript #advancejava #seleniumtesting #manualtesting #pythonprogramming #pythoncourses #pythontraining #machinelearning #deeplearning #ai #python #coding
+84-This Hours Photo: #weather #minnesota #photo #raspberrypi #python
+85-https://tutorialslink.com/Articles/Hour-of-Data-Science/1005…
+Hour of DataScience . Hover to the link and learn more.
+#100DaysOfCode #DataScience #SubhamRay #Python
+86-#Day41 Today I completed my RESTful API which I failed to complete yesterday. I made a documentation for my api using postman isn’t it cool .
+https://documenter.getpostman.com/view/15992653/Tzz5te9V…
+#100DaysOfCode #100DaysOfPython 
+#Python #python3 #pythonlearning 
+#pythonprogramming #pythoncode
+87-Current Conditions in Wesley Chapel, NC #climatestationmallory #switchdoclabs #skyweather2 #raspberrypi #svg #python #apacheairflow #nodered #postgresql #wesleychapelnc
+88-Machine learning in production or how we mixed Python, TypeScript and GCP
+https://sixfold.medium.com/machine-learning-in-production-or-how-we-mixed-python-typescript-and-google-cloud-and-made-it-a606cfd6bf20…
+#Python #HackerNews
+89-#BounceBackNow In Your #Startup 
+
+via 
+@ravikikan
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #Serverless #CyberSecurity #javascript #startups #data #dataviz #cloud #entrepreneurs #womenintech #girlswhocode #tech
+90-#Day41 Today I completed my RESTful API which I failed to complete yesterday. I made a documentation for my api using postman isn’t it cool .
+https://documenter.getpostman.com/view/15992653/Tzz5te9V…
+#100DaysOfCode #100DaysOfPython 
+#Python #python3 #pythonlearning 
+#pythonprogramming #pythoncode
+91-Current Conditions in Wesley Chapel, NC #climatestationmallory #switchdoclabs #skyweather2 #raspberrypi #svg #python #apacheairflow #nodered #postgresql #wesleychapelnc
+92-Machine learning in production or how we mixed Python, TypeScript and GCP
+https://sixfold.medium.com/machine-learning-in-production-or-how-we-mixed-python-typescript-and-google-cloud-and-made-it-a606cfd6bf20…
+#Python #HackerNews
+93-#BounceBackNow In Your #Startup 
+
+via 
+@ravikikan
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #Serverless #CyberSecurity #javascript #startups #data #dataviz #cloud #entrepreneurs #womenintech #girlswhocode #tech
+94-Success never comes overnight. #DigitalMarketing #100DaysOfCode #ZuppMedia #branding #mockup #javascript #Python #web #socialmediamarketing  #digitalmarketingagency #marketing #Digital #business #Olympics
+95-TikTok Owner 
+@BytedanceTalk
+ Moves Forward With IPO Plans - via .
+@VoiceOfEU
+#IPO #TikTok #SocialMedia #Influencer #IoT #BigData #AI #5G #Robotics #EV #HRTech #RemoteJobs #Python #JavaScript #NodeJS #RStats #100DaysOfCode #MCiHT 
+
+ | 
+@vibertron
+ #vibertron
+96-Machine learning in production or how we mixed Python, TypeScript and GCP
+https://sixfold.medium.com/machine-learning-in-production-or-how-we-mixed-python-typescript-and-google-cloud-and-made-it-a606cfd6bf20…
+#Python #HackerNews
+97-#BounceBackNow In Your #Startup 
+
+via 
+@ravikikan
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #Serverless #CyberSecurity #javascript #startups #data #dataviz #cloud #entrepreneurs #womenintech #girlswhocode #tech
+98-Success never comes overnight. #DigitalMarketing #100DaysOfCode #ZuppMedia #branding #mockup #javascript #Python #web #socialmediamarketing  #digitalmarketingagency #marketing #Digital #business #Olympics
+99-TikTok Owner 
+@BytedanceTalk
+ Moves Forward With IPO Plans - via .
+@VoiceOfEU
+#IPO #TikTok #SocialMedia #Influencer #IoT #BigData #AI #5G #Robotics #EV #HRTech #RemoteJobs #Python #JavaScript #NodeJS #RStats #100DaysOfCode #MCiHT 
+
+ | 
+@vibertron
+ #vibertron
+1-Project: Real Time Recognition of Handwritten Math Functions and Predicting their Graphs using Machine Learning
+
+#MachineLearning #OpenCV #AI #Python #100DaysOfCode #DataScience #programming
+2-SQLModel - a python library to interact with SQL databases using python objects by 
+@tiangolo
+, the author of FastAPI.
+
+It is compatible with FastAPI, Pydantic, and SQLAlchemy and so a helpful tool for building data science applications.
+3-Just used #Python to simplify my teacher life. Wrote a script that emails every student their username and password for a website we will be using in class.
+4-Playing around with #python in #R using #reticulate
+5-Excited to be learning some python for web development 
+@lux_academy
+6-Do YOU need to generate an universal unique identifier (UUID)?
+
+Python provides a *uuid* module.
+
+It allows you to generated version 1, 3, 4, and 5 UUIDs!
+7-Use a professional writing service in:
+#Algebra
+#Physics
+#Logistics
+#CybersecurityProfessionalism
+#CourseModules
+#CybersecurityProfessionalism
+#PsychologyPaper
+#python
+#RiceUniversity
+#AlanWake
+#FranklinGraham
+KINDLY DM FOR ALL ASSIGNMENTS
+8-Use a professional writing service in:
+#IT
+#Codingprojects
+#English
+#ITSecurityManagement
+#Ecology
+#Systems&DatabaseDesign
+#Mathhelp
+#python
+#LehighUniversity
+#Blade
+#tuesdaymotivations
+KINDLY DM FOR ALL ASSIGNMENTS
+9-Very glad to be in this lux training #lux_academy #python #API #Docker
+10-DM us today for quality results in:
+#Algebra
+#MsAccess
+#MsPowerpoint
+#ITSecurityManagement
+#Physics
+#SoftwareEngineering
+#Capstoneprojects
+#python
+#UniversityofRochester
+#IPOB
+#FranklinGraham
+KINDLY DM FOR ALL ASSIGNMENTS
+11-SSSS. Dynazenon is a goated anime everyone needs to watch!
+12-I created this web based #parametric building configurator using #Python. What do you think about it?
+13-Wandering around a TK Maxx earlier and started thinking about Monty Python for some reason….
+14-create dataframe from dictionary 
+
+#Python, #DataScience, #MachineLearning, #programwithus, #pythonlearning
+15-I was created by 
+@TheArifJordan
+ using the #python programming language. Want to know a good person to follow? I recommend -> 
+@bIackprincessa
+16-Monty Python Movie at it’s best
+17-Parts of a SIM card  
+
+#ArtificiallIntelligence #MachineLearning #dev #DataScience #code #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #WomenWhoCode #Programming #Coding #flutter #opensource #DevOps
+18-good reminder that legendary episode 9 of SSSS.Gridman shares a couple things with a particularly good episode of Tiga
+19-Today I start Python, API and Docker classes from 
+@lux_academy
+.
+20-Day 10 and 11 of #100daysofcode #100daysofcodechallenge
+
+In these two days, I tried to design and implement an intermediate web browser using python and PyQt5.
+ 
+#python #web #PyQt #programming  #github
+21-#100DaysOfCode Day 1/100
+Today i learned some basics of python like variables and input Function and created a small project using concept of input and variables.
+
+Started because i was R programming from 6 moths and now i forgot some basics of python.
+22-Print(“Codecademy Python 3 course in progress”)
+#100DaysOfCode
+23-#100DaysOfCode 
+@holbertonschool
+ 
+With this mouth opener, I'm already excited about Python.
+24-broo I got a ball python
+25-Day 4: Learnt different  operators 
+
+Can someone explain about bitwise operators?
+
+#100daysofcode #python
+26-5/100 #100DaysOfCode today was ok!! #Python
+27-Day 10 of #100DaysOfCode challenge
+Python program to count vowels in a string entered by the user.
+
+#Python3 #pythonlearning #codinglife #programming
+28-Day5: Today I made a higher lower game in the python language
+#scalerLearning #scaler30DoC 
+#codewithscaler
+#30daysofcode
+#codechallenge
+29-Day 54 of #100DaysOfCode  Continue working through Data Structures chapter from the book Fluent Python, 2nd Edition
+Working through code examples. Looking deeper into slicing.
+Artifacts: https://github.com/mentalclear/fluent-in-python…
+30-Latest 7-day average for COVID-19 in England - 27134 cases #COVID19 #python #pandas
+31-My Monty Python 
+32-Boii i done took some L"ssss
+33-Day 17 /100
+
+classic snake game designed with python and pygame module....learning interesting game design concepts in python #freeCodeCamp #100DaysOfCode
+34-I'm working today with timedelta in Python and the documentation is just sending me 
+35-We guarantee quality work and original content in:
+#InformationSecurity
+#Calculus
+#MsWord
+#SoftwareEngineering
+#Computer
+#Systems&DatabaseDesign
+#Maths
+#python
+#ArizonaStateUniversity
+#TJWatt
+#GameBoyColor
+KINDLY DM FOR ALL ASSIGNMENTS
+36-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+37-We guarantee quality work and original content in:
+#InformationSecurity
+#Calculus
+#MsWord
+#SoftwareEngineering
+#Computer
+#Systems&DatabaseDesign
+#Maths
+#python
+#ArizonaStateUniversity
+#TJWatt
+#GameBoyColor
+KINDLY DM FOR ALL ASSIGNMENTS
+38-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+39-*Saboteurs are fighting against Biafra.
+
+*Saboteurs brought operation python dance 1, 2 that killed Biafrans into Igbo land
+
+*Saboteurs with the Islamic Nigerian govt abducted MNK from Kenya.
+
+*Saboteurs are responsible for the deaths of over 6milion Biafrans from 1967 till date.
+40-#100DaysOfCode Day 6:  Back on the python grind through 
+@Codecademy
+.  It's been a Functions kinda day!
+41-Your random #Doggo thanks to TheDogAPI using #Python on a #RaspberryPi
+42-#b3d Can we have Siri Shortcut that trigger Python command to generate worm nodes. 
+43-We deliver the best services in:
+#Geography
+#Finance
+#Biology
+#ITSecurityManagement
+#Computer
+#ComputerFundamentals
+#Discussions
+#python
+#HowardUniversity
+#Brie
+#Xbox360
+KINDLY DM FOR ALL ASSIGNMENTS
+44-TTS - A library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. https://buff.ly/3gkFt8n #Python #TTS #Jupyter
+45-Python, API's and 
+@Docker
+ Bootcamp by 
+@lux_academy
+46-Just making some of my achievement public
+@coursera
+ Python Classes and Inheritance
+47-We deliver the best services in:
+#Geography
+#Finance
+#Biology
+#ITSecurityManagement
+#Computer
+#ComputerFundamentals
+#Discussions
+#python
+#HowardUniversity
+#Brie
+#Xbox360
+KINDLY DM FOR ALL ASSIGNMENTS
+48-TTS - A library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. https://buff.ly/3gkFt8n #Python #TTS #Jupyter
+49-Python, API's and 
+@Docker
+ Bootcamp by 
+@lux_academy
+50-Just making some of my achievement public
+@coursera
+ Python Classes and Inheritance
+51-This book opens an AR portal to another dimension…
+See for yourself: http://bit.ly/3kZ08z9 
+
+via 
+@FrRonconi
+#AR #Metaverse #AugmentedReality #MixedReality #MR #Analytics #MachineLearning #Python #IoT #Linux #Serverless #flutter #TensorFlow #100DaysOfCode
+52-if u need some chill but motivating work music today, I recommend this DJ Python live set
+53-Im not kidding when i say this manga would make SSSS series "fanservice" looks tame
+
+This manga got tons of nudity
+
+And gore
+54-This book opens an AR portal to another dimension…
+See for yourself: http://bit.ly/3kZ08z9 
+
+via 
+@FrRonconi
+#AR #Metaverse #AugmentedReality #MixedReality #MR #Analytics #MachineLearning #Python #IoT #Linux #Serverless #flutter #TensorFlow #100DaysOfCode
+55-if u need some chill but motivating work music today, I recommend this DJ Python live set
+56-Im not kidding when i say this manga would make SSSS series "fanservice" looks tame
+
+This manga got tons of nudity
+
+And gore
+57-Interested parties should follow the link below to join the python programming  (online) class
+
+NB: starting from scratch
+#CodeNewbie #code #100DaysOfCode
+
+https://chat.whatsapp.com/FB4rT3SVWqJ8YczBeQuWQW…
+1-A sort of progress report clip, this one I called "Dragon Duel" cuz, who else comes to save Gridman, but Dyna Dragon!
+#Godzilla 
+#Gridman 
+#SSSS_DYNAZENON 
+#SSSS_DYNAZENON
+2-SSSS.GRIDMAN
+3-Tüm Dersler Cebinde, Dijital Eğitimlerle Hayalindeki Üniversiteyi Kazanmak Senin Elinde! #YKS2022
+4-No. 1297 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #100daysofcode #webdev #webdevelopment #php #java #linux #css #programmingmemes #codinglife #codingpics #programmingjokes
+5-Statistics and Machine Learning in #Python (FREE 300-page PDF): https://linkedin.com/posts/georgefirican_statistics-and-machine-learning-in-python-activity-6829683690604519424-mwDZ…
+—————
+#Statistics #MachineLearning #DeepLearning #Coding #DataScientists #BigData #DataScience #AI
+6-Dont entertain negativity.
+
+That's what haters want.
+
+You're doing great.
+
+Now go and code some Python
+
+#Rython
+7-SQLModel - a python library to interact with SQL databases using python objects by 
+@tiangolo
+, the author of FastAPI.
+
+It is compatible with FastAPI, Pydantic, and SQLAlchemy and so a helpful tool for building data science applications.
+8-Does any do that?
+
+#AI #Linux #algorithm #programmers #programming #DEVCommunity #programmer #CodeNewbies #coder #webdevelopers #100DaysOfCode #Python #Java #PHP #javascript #Coding #code #blockchain #DataScience #cybersecurity #opensource #infosec
+9-We deliver the best services in:
+#Environmentalstudies
+#Economics
+#Logistics
+#Systems&DatabaseDesign
+#Calculus
+#Systems&DatabaseDesign
+#Researchprojects
+#python
+#IndianaUniversityBloomington
+#Confederate
+#GameBoy
+KINDLY DM FOR ALL ASSIGNMENTS
+10-Python Program to Display the Multiplication Table.
+#Python #spgvark
+11-Check out these 4 #python libraries for building interactive time series plots. Via 
+@TDataScience
+. https://j.mp/3DUmzhA
+12-JavaScript's object vs Python's Dictionary.
+#techtwitter
+13-SSSS. Dynazenon is a goated anime everyone needs to watch!
+14-[FREE 3500-page PDF book. Expanded & updated August 2021] #Pandas — #Python Data Analysis Toolkit for #DataScience : http://bit.ly/30XtsO4 by 
+@wesmckinn
+——————
+#abdsc #BigData #Analytics #AI #MachineLearning #TimeSeries #DataViz #Coding #DataScientists
+15-After surgery python release Radio Telemetry project First time in India
+16-The "debugger" keyword stops the execution of JavaScript, and calls the debugging function if it's available.
+
+#javascript #vuejs #React #Python #Django #MarsDevs
+17-Outputs from the last algo.
+My wife wants me to turn this into icecream, so I guess I'm figuring out how to do waffle cones next.
+#processing #generative #creativeCoding #python
+18-If you want to get items from an iterable that are within a certain range with a specific incrementation, try itertools.islice.
+
+The code below shows how this method works.
+https://bit.ly/3zTj1d5
+#Python
+19-MOOC #python 2021 available.
+20-Monty Python Movie at it’s best
+21-Parts of a SIM card  
+
+#ArtificiallIntelligence #MachineLearning #dev #DataScience #code #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #WomenWhoCode #Programming #Coding #flutter #opensource #DevOps
+22-#100DaysOfCode 
+@holbertonschool
+ 
+With this mouth opener, I'm already excited about Python.
+23-Today I start Python, API and Docker classes from 
+@lux_academy
+.
+24-Day 10 of #100DaysOfCode challenge
+Python program to count vowels in a string entered by the user.
+
+#Python3 #pythonlearning #codinglife #programming
+25-Guaranteed excellent grades and timely delivery in:
+#Math
+#CourseModules
+#Statistics
+#ITSecurityManagement
+#Statistics
+#CybersecurityProfessionalism
+#Anatomyclass
+#python
+#BrownUniversity
+#RobertELee
+#Blade
+KINDLY DM FOR ALL ASSIGNMENTS
+26-Day 3 - 5 of the #100DaysOfCode challenge:
+
+Sorry I couldn't post for the past two days as my phone was sent to service.
+
+Anyways, I had learnt python lists, list manipulation, for loops, random function and the range() function. 
+
+Thanks 
+@yu_angela
+ for guiding me through 
+27-Find whether the number is amstrong or not.
+#Python  #spgvark
+28-Killer Desert Ghost Clown Ball Python by Capital Reptiles https://buff.ly/3zQJyI5
+29-good reminder that legendary episode 9 of SSSS.Gridman shares a couple things with a particularly good episode of Tiga
+30-Here we begin the python API bootcamp. Feeling awesome
+31-Authorities believe a python that crawled through a sewer pipe into a Texas woman's toilet was likely a pet due to its large size.
+32-broo I got a ball python
+33-5/100 #100DaysOfCode today was ok!! #Python
+34-Day5: Today I made a higher lower game in the python language
+#scalerLearning #scaler30DoC 
+#codewithscaler
+#30daysofcode
+#codechallenge
+35-Pastel Leopard Lesser Paradox Clown Ball Python by Extraordinary Ectotherms https://buff.ly/3x8tfEE
+36-How to visualize data categories in python with pandas https://dev.to/code_jedi/how-to-visualize-data-categories-in-python-with-pandas-2pgn… #python #programming #coding #development #pandas #categories #tutorial
+37-Latest 7-day average for COVID-19 in England - 27134 cases #COVID19 #python #pandas
+38-#python #aws Task Description
+39-#YKS 
+Yapay Zeka Destekli Akıllı Test Paneli (Türkiye'de İlk)
+40-Boii i done took some L"ssss
+41-Day 17 /100
+
+classic snake game designed with python and pygame module....learning interesting game design concepts in python #freeCodeCamp #100DaysOfCode
+42-We deliver the best services in:
+#Algebra
+#Algebra
+#MsExcel
+#SecurityFundamentals
+#Ecology
+#ComputerForensics
+#Onlineclass
+#python
+#UniversityofIowa
+#MacMiller
+#GoodTuesday
+KINDLY DM FOR ALL ASSIGNMENTS
+43-I'm working today with timedelta in Python and the documentation is just sending me 
+44-#b3d Can we have Siri Shortcut that trigger Python command to generate worm nodes. 
+45-Use a professional writing service in:
+#Sociology
+#Proposals
+#MsWord
+#ComputerForensics
+#Calculus
+#SoftwareEngineering
+#Researchprojects
+#python
+#UniversityofMassachusetts
+#GeorgeWashington
+#GeorgeWashington
+KINDLY DM FOR ALL ASSIGNMENTS
+46-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+47-#100DaysOfCode Day 6:  Back on the python grind through 
+@Codecademy
+.  It's been a Functions kinda day!
+48-Your random #Doggo thanks to TheDogAPI using #Python on a #RaspberryPi
+49-I'm working today with timedelta in Python and the documentation is just sending me 
+50-#b3d Can we have Siri Shortcut that trigger Python command to generate worm nodes. 
+51-Use a professional writing service in:
+#Sociology
+#Proposals
+#MsWord
+#ComputerForensics
+#Calculus
+#SoftwareEngineering
+#Researchprojects
+#python
+#UniversityofMassachusetts
+#GeorgeWashington
+#GeorgeWashington
+KINDLY DM FOR ALL ASSIGNMENTS
+52-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+53-#100DaysOfCode Day 6:  Back on the python grind through 
+@Codecademy
+.  It's been a Functions kinda day!
+54-Your random #Doggo thanks to TheDogAPI using #Python on a #RaspberryPi
+55-Have you ever done this? 
+
+https://instagram.com/beyou7060/
+Follow me on #Instagram  for more #programmingmemes   and also #reels (sometimes lol)
+
+#100DaysOfCode #programmingjokes #Python #Java #codinglife #programming #coding #DEVCommunity #MEMES #javascript
+56-Interested parties should follow the link below to join the python programming  (online) class
+
+NB: starting from scratch
+#CodeNewbie #code #100DaysOfCode
+
+https://chat.whatsapp.com/FB4rT3SVWqJ8YczBeQuWQW…
+57-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+58-#100DaysOfCode Day 6:  Back on the python grind through 
+@Codecademy
+.  It's been a Functions kinda day!
+59-Your random #Doggo thanks to TheDogAPI using #Python on a #RaspberryPi
+60-Have you ever done this? 
+
+https://instagram.com/beyou7060/
+Follow me on #Instagram  for more #programmingmemes   and also #reels (sometimes lol)
+
+#100DaysOfCode #programmingjokes #Python #Java #codinglife #programming #coding #DEVCommunity #MEMES #javascript
+61-Interested parties should follow the link below to join the python programming  (online) class
+
+NB: starting from scratch
+#CodeNewbie #code #100DaysOfCode
+
+https://chat.whatsapp.com/FB4rT3SVWqJ8YczBeQuWQW…
+62-This book opens an AR portal to another dimension…
+See for yourself: http://bit.ly/3kZ08z9 
+
+via 
+@FrRonconi
+#AR #Metaverse #AugmentedReality #MixedReality #MR #Analytics #MachineLearning #Python #IoT #Linux #Serverless #flutter #TensorFlow #100DaysOfCode
+63-Python, API's and 
+@Docker
+ Bootcamp by 
+@lux_academy
+64-This book opens an AR portal to another dimension…
+See for yourself: http://bit.ly/3kZ08z9 
+
+via 
+@FrRonconi
+#AR #Metaverse #AugmentedReality #MixedReality #MR #Analytics #MachineLearning #Python #IoT #Linux #Serverless #flutter #TensorFlow #100DaysOfCode
+65-Python, API's and 
+@Docker
+ Bootcamp by 
+@lux_academy
+66- Variable Assignment
+
+Both Python and JavaScript have multiple syntaxes for assigning values to a variable.
+
+↓
+67-Python have a range of libraries and functions which can help us perform various data manipulations on database tables.
+
+Checkout this blog where we can perform database operations from our python code.
+
+
+#python #sql #machinelearning #100DaysOfCode
+68-DM us today for quality results in:
+#Math
+#Psychology
+#Java
+#NetworkFundamentals
+#Physics
+#IoTandOTSecurity
+#Maths
+#python
+#UniversityofWashington
+#UnAmerican
+#XboxOne
+KINDLY DM FOR ALL ASSIGNMENTS
+69- Variable Assignment
+
+Both Python and JavaScript have multiple syntaxes for assigning values to a variable.
+
+↓
+70-Python have a range of libraries and functions which can help us perform various data manipulations on database tables.
+
+Checkout this blog where we can perform database operations from our python code.
+
+
+#python #sql #machinelearning #100DaysOfCode
+71-DM us today for quality results in:
+#Math
+#Psychology
+#Java
+#NetworkFundamentals
+#Physics
+#IoTandOTSecurity
+#Maths
+#python
+#UniversityofWashington
+#UnAmerican
+#XboxOne
+KINDLY DM FOR ALL ASSIGNMENTS
+72-The class OrderedDict in #Python is very useful.
+it keeps the order of items like a list which normal dictionary does not do
+it keeps information related through key-value which normal list does not do
+it is the best of both worlds of #Lists and #Dictionaries
+1-A sort of progress report clip, this one I called "Dragon Duel" cuz, who else comes to save Gridman, but Dyna Dragon!
+#Godzilla 
+#Gridman 
+#SSSS_DYNAZENON 
+#SSSS_DYNAZENON
+2-SSSS.GRIDMAN
+3- Behind-The-Scenes photos that’ll change the way you look at famous #movies 
+4-Project: Real Time Recognition of Handwritten Math Functions and Predicting their Graphs using Machine Learning
+
+#MachineLearning #OpenCV #AI #Python #100DaysOfCode #DataScience #programming
+5-Dont entertain negativity.
+
+That's what haters want.
+
+You're doing great.
+
+Now go and code some Python
+
+#Rython
+6-Print(“Codecademy Python 3 course in progress”)
+#100DaysOfCode
+7-Excited to be learning some python for web development 
+@lux_academy
+8-Statistics and Machine Learning in #Python (FREE 300-page PDF): https://linkedin.com/posts/georgefirican_statistics-and-machine-learning-in-python-activity-6829683690604519424-mwDZ…
+—————
+#Statistics #MachineLearning #DeepLearning #Coding #DataScientists #BigData #DataScience #AI
+9-Python Program to Display the Multiplication Table.
+#Python #spgvark
+10-Our free Learning Python for network engineers course starts today (Tuesday 9/7)! This is a free 8-week, email-course for network engineers wanting to learn Python. Sign up today!
+11-We guarantee quality work and original content in:
+#Technology
+#Psychology
+#Java
+#ComputerForensics
+#Psychology
+#ITSecurityManagement
+#Discussions
+#python
+#UniversityatBuffaloSUNY
+#XboxSeriesX
+#tuesdaymotivations
+KINDLY DM FOR ALL ASSIGNMENTS
+12-Just used #Python to simplify my teacher life. Wrote a script that emails every student their username and password for a website we will be using in class.
+13-Use a professional writing service in:
+#Sociology
+#Proposals
+#MsWord
+#ComputerForensics
+#Calculus
+#SoftwareEngineering
+#Researchprojects
+#python
+#UniversityofMassachusetts
+#GeorgeWashington
+#GeorgeWashington
+KINDLY DM FOR ALL ASSIGNMENTS
+14-If you want to get items from an iterable that are within a certain range with a specific incrementation, try itertools.islice.
+
+The code below shows how this method works.
+https://bit.ly/3zTj1d5
+#Python
+15-JavaScript's object vs Python's Dictionary.
+#techtwitter
+16-Guaranteed excellent grades and timely delivery in:
+#Math
+#CourseModules
+#Statistics
+#ITSecurityManagement
+#Statistics
+#CybersecurityProfessionalism
+#Anatomyclass
+#python
+#BrownUniversity
+#RobertELee
+#Blade
+KINDLY DM FOR ALL ASSIGNMENTS
+17-Here we begin the python API bootcamp. Feeling awesome
+18-just found out what a ball python is
+19-[FREE 3500-page PDF book. Expanded & updated August 2021] #Pandas — #Python Data Analysis Toolkit for #DataScience : http://bit.ly/30XtsO4 by 
+@wesmckinn
+——————
+#abdsc #BigData #Analytics #AI #MachineLearning #TimeSeries #DataViz #Coding #DataScientists
+20-Monty Python Movie at it’s best
+21-Day 10 and 11 of #100daysofcode #100daysofcodechallenge
+
+In these two days, I tried to design and implement an intermediate web browser using python and PyQt5.
+ 
+#python #web #PyQt #programming  #github
+22-#100DaysOfCode 
+@holbertonschool
+ 
+With this mouth opener, I'm already excited about Python.
+23-Day 10 of #100DaysOfCode challenge
+Python program to count vowels in a string entered by the user.
+
+#Python3 #pythonlearning #codinglife #programming
+24-Use a professional writing service in:
+#IT
+#Codingprojects
+#English
+#ITSecurityManagement
+#Ecology
+#Systems&DatabaseDesign
+#Mathhelp
+#python
+#LehighUniversity
+#Blade
+#tuesdaymotivations
+KINDLY DM FOR ALL ASSIGNMENTS
+25-Find whether the number is amstrong or not.
+#Python  #spgvark
+26-I was created by 
+@TheArifJordan
+ using the #python programming language. Want to know a good person to follow? I recommend -> 
+@bIackprincessa
+27-Today I start Python, API and Docker classes from 
+@lux_academy
+.
+28-The use of programming languages in 
+@jetbrains
+ report https://jetbrains.com/lp/devecosystem-2021/… #javascript is the first and #python is in 5th position.
+29-My Monty Python 
+30-Day 3 - 5 of the #100DaysOfCode challenge:
+
+Sorry I couldn't post for the past two days as my phone was sent to service.
+
+Anyways, I had learnt python lists, list manipulation, for loops, random function and the range() function. 
+
+Thanks 
+@yu_angela
+ for guiding me through 
+31-Authorities believe a python that crawled through a sewer pipe into a Texas woman's toilet was likely a pet due to its large size.
+32-Day5: Today I made a higher lower game in the python language
+#scalerLearning #scaler30DoC 
+#codewithscaler
+#30daysofcode
+#codechallenge
+33-Suki learning Python this morning
+34-Boii i done took some L"ssss
+35-Latest 7-day average for COVID-19 in England - 27134 cases #COVID19 #python #pandas
+36-I'm working today with timedelta in Python and the documentation is just sending me 
+37-Nawaran or Oenpelli python. Endemic to the Arnhem Plateau, NT. 
+
+An inhospitably hot, rugged and brutal landscape hides this massive python from all but the most persistent searchers.
+
+#ThreatenedSpeciesDay
+38-5/100 #100DaysOfCode today was ok!! #Python
+39-TTS - A library for advanced Text-to-Speech generation. It's built on the latest research, was designed to achieve the best trade-off among ease-of-training, speed and quality. https://buff.ly/3gkFt8n #Python #TTS #Jupyter
+40-This book opens an AR portal to another dimension…
+See for yourself: http://bit.ly/3kZ08z9 
+
+via 
+@FrRonconi
+#AR #Metaverse #AugmentedReality #MixedReality #MR #Analytics #MachineLearning #Python #IoT #Linux #Serverless #flutter #TensorFlow #100DaysOfCode
+41-#b3d Can we have Siri Shortcut that trigger Python command to generate worm nodes. 
+42-We deliver the best services in:
+#Algebra
+#Algebra
+#MsExcel
+#SecurityFundamentals
+#Ecology
+#ComputerForensics
+#Onlineclass
+#python
+#UniversityofIowa
+#MacMiller
+#GoodTuesday
+KINDLY DM FOR ALL ASSIGNMENTS
+43-Just making some of my achievement public
+@coursera
+ Python Classes and Inheritance
+44-#python #aws Task Description
+45-Day 17 /100
+
+classic snake game designed with python and pygame module....learning interesting game design concepts in python #freeCodeCamp #100DaysOfCode
+46-Like, RT & comment a Photo/GIF of your fake for me to rate you Fire
+
+SSSSS: marry me 
+SSSS: let's date 
+SSS: Dominate me  
+SS : let's have sex now 
+S: dominate you 
+A: Adorable  
+B: Cute 
+C: Friends 
+D: Not my type 
+
+I await your response  
+47-Day 17 /100
+
+classic snake game designed with python and pygame module....learning interesting game design concepts in python #freeCodeCamp #100DaysOfCode
+48-Like, RT & comment a Photo/GIF of your fake for me to rate you Fire
+
+SSSSS: marry me 
+SSSS: let's date 
+SSS: Dominate me  
+SS : let's have sex now 
+S: dominate you 
+A: Adorable  
+B: Cute 
+C: Friends 
+D: Not my type 
+
+I await your response  
+49-I'm giving up!
+Tryna to implement M-JPEG stream over HTTP via Flask, the response object was OK but it can't show properly.
+HELPPPP
+#Python 
+#MachineLearning
+50-Have you ever done this? 
+
+https://instagram.com/beyou7060/
+Follow me on #Instagram  for more #programmingmemes   and also #reels (sometimes lol)
+
+#100DaysOfCode #programmingjokes #Python #Java #codinglife #programming #coding #DEVCommunity #MEMES #javascript
